@@ -20,7 +20,7 @@ import androidx.fragment.app.Fragment;
 import com.example.mdp_group1.Map.GridMap;
 
 import java.util.Arrays;
-
+// test
 
 public class ControlFragment extends Fragment {
     private static final String TAG = "ControlFragment";
